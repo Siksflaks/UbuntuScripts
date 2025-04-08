@@ -8,5 +8,5 @@ it will keep:
 24 Hour backups, so oldest get deleted
 7 Day backups
 52 week backups
-24 month backups
+12 month backups
 year backup limit not set
