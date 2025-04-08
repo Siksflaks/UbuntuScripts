@@ -1,4 +1,5 @@
 These are some scripts i made to help with the maintenance of a server i have
+You can edit these scripts to make them work on your own server.
 
 main.sh is like a little menu with a few options
 
